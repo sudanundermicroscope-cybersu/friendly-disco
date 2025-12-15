@@ -1,5 +1,3 @@
-# friendly-disco
-Investigative journalism website about sudan 
 <!DOCTYPE html>
 <html lang="ar">
 <head>
