@@ -1,81 +1,25 @@
 index.html
 <!DOCTYPE html>
-<html lang="ar" dir="rtl">
+<html lang="ar">
 <head>
-  <meta charset="UTF-8" />
-  <title>سودان تحت المجهر</title>
+  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>سودان تحت المجهر</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      background: #f5f5f5;
-      color: #222;
-      line-height: 1.8;
-    }
-    header {
-      background: #111;
-      color: #fff;
-      padding: 20px;
-      text-align: center;
-    }
-    nav a {
-      color: #fff;
-      margin: 0 10px;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    main {
-      padding: 20px;
-      max-width: 900px;
-      margin: auto;
-      background: #fff;
-    }
-    h1, h2 {
-      color: #b30000;
-    }
-    footer {
-      background: #111;
-      color: #ccc;
-      text-align: center;
-      padding: 15px;
-      margin-top: 30px;
-    }
+    body { font-family: Arial; background: #f4f4f4; color: #333; margin:0; padding:0; text-align:center;}
+    header { background: #0055a5; color: white; padding: 20px 0;}
+    main { padding: 30px 20px;}
+    h1 { margin:0; font-size:2.5em;}
+    p { font-size:1.2em;}
   </style>
 </head>
-
 <body>
-
-<header>
-  <h1>سودان تحت المجهر</h1>
-  <p>منصة صحفية استقصائية مستقلة</p>
-  <nav>
-    <a href="index.html">الرئيسية</a>
-    <a href="report.html">التقرير الأول</a>
-  </nav>
-</header>
-
-<main>
-  <h2>مرحبًا بكم</h2>
-  <p>
-    «سودان تحت المجهر» منصة صحفية استقصائية تُعنى بكشف ملفات الفساد،
-    والانتهاكات، والقضايا السياسية والأمنية في السودان والإقليم،
-    اعتمادًا على منهج مهني مستقل.
-  </p>
-
-  <h2>أحدث التحقيقات</h2>
-  <ul>
-    <li>
-      <a href="report.html">
-        المطارات البعيدة: الوجه الخفي للاختراق المدني في السودان
-      </a>
-    </li>
-  </ul>
-</main>
-
-<footer>
-  © 2025 سودان تحت المجهر – جميع الحقوق محفوظة
-</footer>
-
+  <header>
+    <h1>سودان تحت المجهر</h1>
+  </header>
+  <main>
+    <p>موقع صحفي استقصائي يعرض ملفات الفساد والقضايا السياسية والأمنية في السودان.</p>
+    <p>تابعونا للمزيد من التحقيقات والتقارير الموثوقة.</p>
+  </main>
 </body>
 </html>
